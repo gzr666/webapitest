@@ -1,0 +1,12 @@
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\bin\Debug\BitTech.Data.dll.config
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\bin\Debug\BitTech.Data.dll
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\bin\Debug\BitTech.Data.pdb
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\bin\Debug\EntityFramework.dll
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\bin\Debug\EntityFramework.xml
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\obj\Debug\BitTech.Data.dll
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\obj\Debug\BitTech.Data.pdb
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\obj\Debug\BitTech.Data.csprojResolveAssemblyReference.cache
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\obj\Debug\BitTech.Data.Migrations.FIRST.resources
+C:\Users\geezer\documents\visual studio 2013\Projects\BitTech\BitTech.Data\obj\Debug\BitTech.Data.csproj.GenerateResource.Cache
